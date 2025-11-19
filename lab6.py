@@ -2,7 +2,7 @@ import numpy as np
 
 def arrays():
     array1 = np.array([-2.33,100,20,33.2])
-    array2 =np.array([[30,12,2,72],[98.01,4,0,7]])
+    array2 =np.array([[30,12,2,70.2],[98.01,4,0,7]])
     array3= np.arange(2,12,2)
     array4= np.arange(20,-21,-10)
     array5= np.linspace(0,1,4) #aralıkları eşit parçalara bölüyor
